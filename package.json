@@ -1,0 +1,15 @@
+{
+	"name": "biome-repro",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"biome": "biome lint",
+		"eslint": "eslint"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.2.6",
+		"eslint": "^9.38.0",
+		"eslint-plugin-react": "^7.37.5"
+	}
+}
